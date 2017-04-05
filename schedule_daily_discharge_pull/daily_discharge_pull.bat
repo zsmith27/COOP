@@ -1,0 +1,1 @@
+"C:\Users\zsmith\Documents\R\R-3.3.0\bin\x64\R.exe" CMD BATCH C:\Users\zsmith\Desktop\COOP\R_COOP\COOP\daily_discharge_pull.R
